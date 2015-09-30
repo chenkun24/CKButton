@@ -26,6 +26,7 @@ It supports:
 - disabled
 - title
 - titleHighlighted
+- titleDisabled
 - titleStyle
 - titleStyleHighlighted
 - titleStyleDisabled
